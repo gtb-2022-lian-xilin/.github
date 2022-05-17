@@ -7,9 +7,13 @@ emmm，这是我第一次用markdown，速成了一下语法，也比较简陋
 最近小区被封了，所以就——  
 放点吃的吧~~  
 
-![food1](assets/mango-milk-tea.jpg)![food2](assets/mango-mousse-1.jpg)![food3](assets/mango-mousse-2.jpg)
+<img src="assets/mango-milk-tea.jpg" width="50%"/>
+<img src="assets/mango-mousse-1.jpg" width="50%"/>
+<img src="assets/mango-mousse-2.jpg" width="50%"/>  
+
 - - -
 最后，我长这样↓↓↓
 
-![lainxilin](assets/life_photo.png)
+<img src="assets/life_photo.png" width="50%"/>
+
 
